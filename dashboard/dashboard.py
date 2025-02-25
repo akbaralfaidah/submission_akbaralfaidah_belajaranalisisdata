@@ -5,9 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the dataset
-
-
+# Load the datasetddd
 @st.cache
 def load_data():
     day_data = pd.read_csv('day.csv')  # Path yang benar untuk file day.csv
