@@ -11,7 +11,7 @@ Dashboard ini dikembangkan menggunakan **Streamlit** untuk memvisualisasikan has
 Jika Anda menggunakan **Anaconda** untuk manajemen lingkungan virtual, ikuti langkah-langkah berikut:
 ```
 # Membuat environment baru:
-conda create --name bike-sharing-ds python=3.9
+conda create --name bike-sharing-ds python=3.10
 
 # Mengaktifkan environment:
 conda activate bike-sharing-ds
