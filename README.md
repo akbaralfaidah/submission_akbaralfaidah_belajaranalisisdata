@@ -25,8 +25,8 @@ pip install -r requirements.txt
 Jika Anda menggunakan pipenv atau terminal biasa, ikuti langkah-langkah berikut:
 ```
 # Membuat folder proyek dan masuk ke dalamnya:
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+mkdir submission_akbaralfaidah_belajaranalisisdata
+cd submission_akbaralfaidah_belajaranalisisdata
 
 # Menginstal dependensi menggunakan pipenv:
 pipenv install
